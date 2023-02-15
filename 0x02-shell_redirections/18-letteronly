@@ -1,2 +1,2 @@
 #!/bin/bash
-grep '^[[:aipha:]]' /etc/ssh/sshd_config
+grep "^[[:aipha:]]" /etc/ssh/sshd_config
